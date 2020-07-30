@@ -105,6 +105,11 @@
    **Venue**: [C] KDD 2020
 
    [link](http://dmlab.kaist.ac.kr/ssumm/), [pdf](https://arxiv.org/pdf/2006.01060), [code](https://github.com/KyuhanLee/SSuMM)
+   
+10. Incremental Lossless Graph Summarization
+    **Authors**: Jihoon Ko, Yunbum Kook, Kijung Shin
+
+    **Venue**: [C] KDD 2020
 
 ---
 
